@@ -1,3 +1,3 @@
-# Python-Basic-Soma
+# Python Soma de adição (x + y)
 
 # pip install os
