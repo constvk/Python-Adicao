@@ -1,3 +1,3 @@
 # Python Soma de adição (x + y)
 
-# pip install os
+# necessário: pip install os
